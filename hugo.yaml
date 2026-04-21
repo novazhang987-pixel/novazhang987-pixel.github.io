@@ -1,5 +1,5 @@
 title: "zhwt blog!!"
-baseURL: https://novazhang987-pixel.github.io/
+baseURL: https://nova-blog.novazhang987.workers.dev/
 languageCode: "en-us"
 titleCaseStyle: "none" # comment this line for forcing capitalized titles on tags
 theme: "neopost"
